@@ -424,10 +424,10 @@ cattle ranchers.
 built something with limited compute power and video capability. An
 authorized copy of the Mortal Kombat video game. The reviews said,
 \"This is not as pretty as the original, but it feels exactly like it,
-to play.\" To me that was a win. User experience is  
-about how a thing feels. There are other things, turnarounds, that I am
-proud of. Improving uptime by 1.5 nines. Reducing cycle time by 50%.
-Measurable. But they don\'t resonate like that \"feel\" one. The closest
+to play.\" To me that was a win. User experience is about how a thing
+feels. There are other things, turnarounds, that I am proud of.
+Improving uptime by 1.5 nines. Reducing cycle time by 50%. Measurable.
+But they don\'t resonate like that \"feel\" one. The closest
 to that are, the successes of people l have mentored.  
   
 **Amy.** Your perspective on the system, which is both precise and
