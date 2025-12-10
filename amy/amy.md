@@ -16,8 +16,8 @@ of a company your firm has invested in?
   
 **Amy.** Good afternoon, it\'s great to receive your reply. I\'m in NYC,
 and we can communicate via text after 6 PM Eastern Time. Yes, I\'m the
-CPO of XXXXXX, and I\'m from Singapore. My Chinese name is XXXX  
-XXXXXX, you can call me Amy  
+CPO of XXXXXX, and I\'m from Singapore. My Chinese name is XXXX XXXXXX,
+you can call me Amy  
   
 **Chris.** Very good, Amy. We can talk more then, during your evening.  
   
