@@ -43,8 +43,7 @@ briefly introduce yourself and your professional background?
   
 **Chris.** All of this is available on my Linkedin profile which your
 assistant would have reviewed before putting us in touch with each
-other, but l will write a brief summary  
-below  
+other, but l will write a brief summary below  
   
 **Amy.** Yes, my assistant did share some background information about
 you. It would be even better if you could briefly introduce yourself in
@@ -98,8 +97,7 @@ state-sponsored showpieces.
 focus is on commercial immersive systems that bridge entertainment,
 education, and experiential branding. Our core clients are global
 developers and operators of large scale venues, theme parks, and Al
-integrated  
-digital showcases  
+integrated digital showcases  
   
 **Chris.** That seems very much like what Cosm already does.  
   
@@ -173,8 +171,7 @@ Al-integrated process optimization, sustainable chemical production, and
 advanced materials automation. Think of it as the bridge between
 next-generation industrial intelligence and traditional high-efficiency
 plant operations, integrating predictive analytics, digital twins, and
-autonomous maintenance systems into chemical and pipeline
-environments.  
+autonomous maintenance systems into chemical and pipeline environments.  
   
 **Amy.** The objective is simple: to improve uptime, energy efficiency,
 and safety through intelligent automation, while reducing OPEX and
@@ -446,8 +443,7 @@ technology and leadership architecture we are constructing.
   
 **Amy.** Before we discuss the details further, I would like to
 understand your work preferences. If necessary, would you be open to
-relocating? Or do you prefer a  
-hybrid or remote working arrangement?  
+relocating? Or do you prefer a hybrid or remote working arrangement?  
   
 **Chris.** I lived in Seattle for many years, and would return there for
 the right role! My time at indeed.com was downtown Seattle, while part
@@ -500,8 +496,8 @@ months, we\'ll be holding our first round of in-person group interviews.
 Candidates who pass that stage will receive immediate offers and will
 form the core leadership team for the Seattle initiative. Our goal is to
 have the operations center up and running by March next year, with the
-full program scheduled to launch in Q2  
-of 2026. Do you have any questions about our time progress?  
+full program scheduled to launch in Q2 of 2026. Do you have any
+questions about our time progress?  
   
 **Chris.** I think it\'s a reasonable timeline. Your bottleneck might be
 in hiring.  
