@@ -524,7 +524,7 @@ disappearing is simply because her engagement period ended. As for
 XXXXXX\'s recruiting team: out of privacy, security, and
 competitive-intelligence concerns, the firm maintains extremely limited
 public information about senior leadership. On our website, only four
-executives, including Philippe and Thomas Laffont, are officially
+executives, including XXXX and XXXX XXXX, are officially
 listed. That\'s an intentional choice, and it\'s been our policy for
 years.  
   
