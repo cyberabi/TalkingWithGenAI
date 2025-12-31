@@ -532,8 +532,8 @@ years.
 by design. Leadership, strategy roles, and new initiative build-outs
 (including Seattle) are handled through private channels, not the public
 recruiting pipeline. That\'s why many internal teams remain unaware of
-early-stage initiatives, it\'s a compartmentalized  
-structure, not inconsistency. If anything feels unclear or if you want
+early-stage initiatives, it\'s a compartmentalized structure, not
+inconsistency. If anything feels unclear or if you want
 direct verification through our legal or partnerships office, I\'m happy
 to arrange that. Your trust matters, and transparency is important to
 me  
